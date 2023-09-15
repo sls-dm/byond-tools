@@ -1,5 +1,5 @@
 #!/bin/bash
 
 echo MAKE SURE YOU RUN THIS COMMAND AS SUDO
-cd __scripts
-sudo sh setup.sh
+sudo wget https://raw.githubusercontent.com/slsgaming-net/byond-tools/main/run2.sh
+sudo sh run2.sh
