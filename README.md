@@ -1,6 +1,7 @@
 # byond-tools
-How to use: on the command line type
-$ sudo sh run.sh
+How to use: download and run fetch.sh...
+$ sudo wget https://raw.githubusercontent.com/slsgaming-net/byond-tools/main/fetch.sh
+$ sudo sh fetch.sh
 
 **todolist**
 * add byond auto install
