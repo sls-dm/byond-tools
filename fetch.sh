@@ -2,4 +2,6 @@
 
 echo "Fetching newest version..."
 git clone https://github.com/slsgaming-net/byond-tools
-echo "Done!"
+echo "Successfully cloned byond-tools"
+cd byond-tools
+sudo sh run.sh
