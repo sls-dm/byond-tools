@@ -1,5 +1,6 @@
 # byond-tools
-How to use: run setup.sh in __scripts
+How to use: on the command line type
+$ sudo sh run.sh
 
 **todolist**
 * add byond auto install
