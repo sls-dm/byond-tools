@@ -5,4 +5,4 @@ How to use: run setup.sh in __scripts
 * add byond auto install
 * create updating script
 * create auto game updater script
-* etc...
+* add ability to change settings
