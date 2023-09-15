@@ -1,6 +1,8 @@
 #!/bin/bash
 
 echo MAKE SURE YOU RUN THIS COMMAND AS SUDO
+sudo apt-get update
+sudo apt-get upgrade
 sudo dpkg --add-architecture i386
 sudo apt update
 sudo apt upgrade

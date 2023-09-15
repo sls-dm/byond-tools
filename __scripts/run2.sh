@@ -1,5 +1,4 @@
 #!/bin/bash
 
-cd /__scripts/
-echo "Mounted __scripts..."
+## add any other things you wanna launch here
 sudo sh setup.sh
