@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cd __scripts
+cd /__scripts/
 echo "Mounted __scripts..."
 sudo sh setup.sh
